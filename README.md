@@ -11,7 +11,7 @@
 
 ## 💻 Brief introduction
 
-Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am a Computer Science student and I study Full Stack Development. To all visitors of my profile, whether you are recruiters, IT professionals, or fellow students, welcome! Suggestions, feedback, and collaborations are greatly appreciated. Feel free to browse through my [repositories](https://github.com/devDudu-21?tab=repositories) and check out my projects. I'm glad to have you here!
+Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am a Computer Science student and I study Full Stack Development. To all visitors of my profile, whether you are recruiters, IT professionals, or fellow students, welcome! Suggestions, feedback, and collaborations are greatly appreciated. Feel free to browse through my [repositories](https://github.com/eduoncode?tab=repositories) and check out my projects. I'm glad to have you here!
 
 <!-- Status -->
 
@@ -19,26 +19,26 @@ Hello, my name is [Eduardo Fernandes](https://www.linkedin.com/in/devdudu). I am
 
 <p align="center">
 
-<a href="https://github.com/devDudu-21?tab=repositories"><img src="https://github-readme-stats-tawny-sigma.vercel.app/api/?username=devDudu-21&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@devDudu's github-readme-stats"/></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devDudu-21&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
+<a href="https://github.com/eduoncode?tab=repositories"><img src="https://github-readme-stats-tawny-sigma.vercel.app/api/?username=eduoncode&theme=github_dark&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@devDudu's github-readme-stats"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduoncode&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" /></a>
 
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@devDudu21">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=devDudu-21&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=eduoncode&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://wakatime.com/@devDudu21"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=devDudu21&theme=github_dark&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@devDudu-21's wakatime stats"/></a>
-<a href="https://github.com/devDudu-21?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=devDudu-21&theme=discord&no-frame=true&column=3&row=2"  width="38%" alt="@devDudu-21's trophy stats"/></a>
+<a href="https://wakatime.com/@devDudu21"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=devDudu21&theme=github_dark&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@eduoncode's wakatime stats"/></a>
+<a href="https://github.com/eduoncode?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=eduoncode&theme=discord&no-frame=true&column=3&row=2"  width="38%" alt="@eduoncode's trophy stats"/></a>
 </p>
 
 <p align="center">
-<a href="https://gist.github.com/devDudu-21"><img src="https://profile-counter.glitch.me/{devDudu-21}/count.svg" alt="devDudu-21 :: Visitor's Count" /></a>
+<a href="https://gist.github.com/eduoncode"><img src="https://profile-counter.glitch.me/{eduoncode}/count.svg" alt="eduoncode :: Visitor's Count" /></a>
 </p>
 
 <!-- Tecnologias -->
